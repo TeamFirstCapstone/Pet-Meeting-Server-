@@ -5,6 +5,7 @@ CAU50718_CapstoneDesign(1)
 
 Three teammates of our team(Team First) all got A+.
 
+<img width="1000" alt="기술스택" src="https://user-images.githubusercontent.com/46518769/103956028-fef8ff80-518a-11eb-922e-a6ff42f9c230.png">
 
 
 Pet Meeting is an online open web platform service and our clients are pet owners and pet sitters.
